@@ -1,0 +1,32 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Pc/Desktop/DERSLER/cs-240/cs240 project/cs240_project/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Pc/Desktop/DERSLER/cs-240/cs240 project/cs240_project/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "tb.v" in library work
+ERROR:HDLCompilers:28 - "tb.v" line 22 'testCount' has not been declared
+ERROR:HDLCompilers:28 - "tb.v" line 22 'errorCount' has not been declared
+Module <tb> compiled
+Analysis of file <"tb.prj"> failed.
+--> 
+
+Total memory usage is 311300 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

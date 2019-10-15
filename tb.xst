@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Pc/Desktop/DERSLER/cs-240/cs240 project/cs240_project/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Pc/Desktop/DERSLER/cs-240/cs240 project/cs240_project/xst"
+elaborate
+-ifn tb.prj
+-ifmt mixed
