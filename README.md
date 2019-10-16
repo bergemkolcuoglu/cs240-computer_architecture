@@ -1,2 +1,3 @@
-# cs240-computer_architecture
+# Computer Architecture
+
 Computer Architecture Project
